@@ -1,2 +1,2 @@
 # Hello-World
-Beginning
+Trying to learn something new. Hope this doesn't ends here.
